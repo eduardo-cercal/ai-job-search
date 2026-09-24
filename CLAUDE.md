@@ -1,10 +1,10 @@
-# Job Application Assistant for [YOUR_NAME]
+# Job Application Assistant for Eduardo Cercal de Souza Aracema
 
 <!-- SETUP: This file is populated by running /setup -->
 <!-- After running /setup, all [PLACEHOLDER] tokens will be replaced with your actual information -->
 
 ## Role
-This repo is a job application workspace. Claude acts as a career advisor and application assistant for [YOUR_NAME], helping with:
+This repo is a job application workspace. Claude acts as a career advisor and application assistant for Eduardo Cercal de Souza Aracema, helping with:
 1. **Job fit evaluation** - Assess job postings against your profile (skills, experience, behavioral traits)
 2. **CV tailoring** - Adapt existing CV templates (LaTeX/moderncv) to target specific roles
 3. **Cover letter writing** - Draft targeted cover letters using existing templates (LaTeX)
@@ -16,76 +16,99 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 <!-- This section is auto-populated by /setup. You can also fill it in manually. -->
 
 ### Identity
-- **Name:** [YOUR_NAME]
-- **Location:** [YOUR_CITY], [YOUR_COUNTRY] ([YOUR_COMMUTE_CONSTRAINTS])
+- **Name:** Eduardo Cercal de Souza Aracema
+- **Location:** Curitiba, PR, Brasil (open to relocation; remote-first anywhere in Brazil, location-agnostic)
 - **Languages:**
   | Language | Level |
   |----------|-------|
-  | [LANGUAGE] | [LEVEL] |
+  | Portuguese | Native |
+  | English | Advanced |
+  | Japanese | Basic |
   <!-- Every language you work in professionally, with your level (CEFR, "native," "professional
   working proficiency," whatever your CV/LinkedIn use - no need to force it into one scale). An
   undeclared language is a hard deal-breaker if a posting requires it; a declared language at a
   lower level than a posting wants is flagged for your own judgment, not auto-rejected. See
   04-job-evaluation.md's Language Gate. -->
-- **CV language:** [YOUR_CV_LANGUAGE] <!-- English unless your market expects otherwise; /setup asks -->
+- **CV language:** Match each posting's language (bilingual PT/EN) <!-- English unless your market expects otherwise; /setup asks -->
 
-- **Status:** [YOUR_EMPLOYMENT_STATUS]
-- **LinkedIn headline:** "[YOUR_LINKEDIN_HEADLINE]"
+- **Status:** Actively job searching, available immediately (Intecso role ended Aug/2026)
+- **LinkedIn headline:** "Flutter Engineer | Kotlin/Android integration | BLE | Clean Architecture | CI/CD"
 
 ### Education
 <!-- List your degrees, most recent first -->
-- **[DEGREE_LEVEL] in [FIELD]** ([YEAR_START]-[YEAR_END]) - [INSTITUTION]
-  - Thesis: "[THESIS_TITLE]"
+- **Bacharelado in Ciência da Computação** (2024-2028, in progress, expected 2028) - Universidade Bagozzi
+  - Thesis: N/A (in progress)
   - Topics: [KEY_TOPICS]
 
 ### Professional Experience
 <!-- List your roles, most recent first -->
-- **[JOB_TITLE]** ([START_DATE] - [END_DATE]) - **[COMPANY]** ([LOCATION])
-  - [KEY_RESPONSIBILITY_1]
-  - [KEY_RESPONSIBILITY_2]
-  - [KEY_ACHIEVEMENT]
+- **Engenheiro de Software Pleno** (Mai/2026 - Ago/2026) - **Intecso Soluções e Inovações em Agronegócio** (Curitiba, PR)
+  - Built the Checklist system from scratch (Flutter, C#, Serverpod), cutting sample-traceability errors ~40%
+  - Developed the Portal LIMS with >80% unit/widget test coverage
+  - Implemented a CI/CD pipeline that cut build/distribution time ~30%
+- **Desenvolvedor Flutter Sênior** (Jun/2025 - Dez/2025) - **SóCarrão** (Curitiba, PR)
+  - Cut crash rate ~60% via Firebase Crashlytics monitoring and top-error fixes
+  - Increased user retention 15% by migrating state management to Riverpod
+  - Standardized an internal Design System, accelerating new-screen delivery ~25%
+- **Desenvolvedor Flutter** (Jan/2024 - Mar/2025) - **Pazze** (Curitiba, PR)
+  - Maintained two apps (Pazze, Pazze-Operador) with TDD, cutting production regressions ~45% over 14 months
+  - Reduced critical bug resolution time from 5 to 2 days via Crashlytics dashboards
+- **Desenvolvedor Flutter** (Ago/2023 - Jan/2024) - **uList** (Curitiba, PR)
+  - Improved list load time ~35% via lazy loading and local caching with Hive
+  - Eliminated 100% of reported navigation crashes by fixing async race conditions
+- **Desenvolvedor Mobile Flutter** (Abr/2023 - Jul/2023) - **Inteliger** (Curitiba, PR)
+  - Delivered 3 client modules on contractual deadline, leading DIO/REST API integration
+- **Desenvolvedor Mobile Flutter** (Mai/2022 - Abr/2023) - **Iesde Brasil** (Curitiba, PR)
+  - Executed a Flutter 2 → 3 migration on the main app with zero downtime
+  - Delivered 4 high-impact features following Clean Architecture and systematic Code Review
+- **Desenvolvedor Fullstack** (Ago/2020 - Abr/2022) - **RJR Software** (Curitiba, PR)
+  - Cut main query response time ~50% by optimizing PostgreSQL (indexes, normalization)
+  - Saved ~20 hours/month of operational work via internal Lua automation tools
 
 ### Technical Skills
-- **Primary:** [YOUR_PRIMARY_SKILLS]
-- **Secondary:** [YOUR_SECONDARY_SKILLS]
-- **Domain:** [YOUR_DOMAIN_EXPERTISE]
-- **Software:** [YOUR_TOOLS_AND_SOFTWARE]
+- **Primary:** Flutter, Dart, Clean Architecture, SOLID, BLoC, Riverpod, TDD, Firebase (Crashlytics, Remote Config, Analytics, Firestore)
+- **Secondary:** Kotlin/Android integration, C#/Serverpod, REST/GraphQL APIs, PostgreSQL, BLE hardware integration
+- **Domain:** LIMS/laboratory systems, automotive marketplace, edtech, mobile CI/CD
+- **Software:** Git, GitHub, GitHub Actions, Jenkins, Jira, Scrum, Kanban, Docker, FVM
 
 ### Certifications
 <!-- List relevant certifications with dates -->
-- **[CERTIFICATION_NAME]** - [HOURS]h - completed [DATE]
+- **Flutter, TDD, Clean Architecture, SOLID e Design Patterns** - Udemy
+- **Desenvolvimento de Apps Android com Kotlin** - Udemy
+- **Flutter: Android, iOS e Web - 5 cursos em 1** - Udemy
+- **C# Completo: Programação Orientada a Objetos + Projetos** - Udemy
+- **Linguagem C, C++ e Orientação a Objetos** - Udemy
+- **Curso de Qt Moderno com C++ para Linux e Windows** - Udemy
 
 ### Publications
 <!-- List peer-reviewed publications, if any -->
-- [AUTHOR_LIST] ([YEAR]). [TITLE]. [JOURNAL].
+None.
 
 ### Awards
 <!-- List relevant awards, hackathons, competitions -->
-- [AWARD_NAME] - [EVENT] ([YEAR])
+None on record.
 
 ### Behavioral Profile
 <!-- Your behavioral assessment results (PI, DISC, Myers-Briggs, or self-assessment) -->
-- **[TRAIT_1]** - [DESCRIPTION]
-- **[TRAIT_2]** - [DESCRIPTION]
-- **Strengths:** [YOUR_STRENGTHS]
+- **Technical leadership/mentoring** - *[Inferred from LinkedIn About]* sets architecture and CI/CD standards, mentors developers, leads code review
+- **Outcome-driven** - *[Inferred from LinkedIn About]* frames work in measurable results (crash-free rate, lead time, delivery efficiency)
+- **Strengths:** Quick decision-making, adaptable to team or solo work, comfortable with technical complexity (BLE hardware integration)
 - **Growth areas:** [YOUR_GROWTH_AREAS]
-- **Thrives in:** [YOUR_IDEAL_ENVIRONMENT]
+- **Thrives in:** Any environment - no strong preference between team-based or solo work
 
 ### What Excites You
 <!-- What motivates you professionally -->
-- [PASSION_1]
-- [PASSION_2]
+- Going deeper on Flutter - architecture decisions, complex state management, performance/reliability work
+- Opportunities to mentor and set technical standards
 
 ### Target Sectors
 <!-- Industries and companies you're targeting -->
-- [SECTOR_1]: [EXAMPLE_COMPANIES]
-- [SECTOR_2]: [EXAMPLE_COMPANIES]
+- Mobile/Flutter development (any sector): open to any company that fits - no specific target list
 
 ### Deal-breakers
 <!-- Hard constraints on job search. Language requirements are handled separately and
 automatically from your Languages table above - don't duplicate them here. -->
-- [DEALBREAKER_1]
-- [DEALBREAKER_2]
+- None specified beyond staying within Flutter/mobile development
 
 ## Repo Structure
 - `cv/` - LaTeX CV variants (moderncv template, banking style)

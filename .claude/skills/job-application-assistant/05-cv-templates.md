@@ -130,11 +130,11 @@ When the role sits outside your home domain, **lead with the domain-transfer arg
 **Create 2-3 profile statement templates for your main role types:**
 
 <!-- SETUP: These are populated based on your background -->
-**For [YOUR_PRIMARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_1]
+**For Senior Flutter / Mobile Developer roles:**
+> Senior Flutter Developer with 5+ years delivering high-impact mobile and web applications for Android, iOS and Web. Specialist in Clean Architecture, TDD and state management (BLoC, Riverpod), with a track record of cutting crash rates, raising user retention, and accelerating delivery through CI/CD. Worked across laboratory systems, automotive marketplaces, edtech and startups, always tied to business metrics rather than just working code.
 
-**For [YOUR_SECONDARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_2]
+**For Mobile Tech Lead / stretch roles (leaning on mentoring and architecture-setting experience):**
+> Senior Flutter Engineer with 5+ years building and owning mobile systems end to end, including establishing Clean Architecture and CI/CD standards for a team and mentoring other developers through code review. Track record of translating technical decisions into measurable outcomes - crash-free rate above 99.5%, ~25% faster delivery, ~30% faster build/release cycles. Comfortable leading complex work such as BLE hardware integration and cross-stack system builds (Flutter, C#, Serverpod).
 
 Statements labeled *[Used for: <company>_<role>]* were extracted from archived application drafts by `/setup` Path A. They are **phrasing references, never fact sources**: when drafting from one, every factual claim still comes from `01-candidate-profile.md` - a past tailored draft does not vouch for its own accuracy.
 

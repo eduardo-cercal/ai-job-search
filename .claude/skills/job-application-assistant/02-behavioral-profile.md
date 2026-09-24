@@ -20,14 +20,14 @@ framework_version: 1.0.0
 | [DRIVE_4] | [LEVEL] | [DESCRIPTION] |
 
 ## Strongest Behaviors
-- **[BEHAVIOR_1]:** [DESCRIPTION]
-- **[BEHAVIOR_2]:** [DESCRIPTION]
-- **[BEHAVIOR_3]:** [DESCRIPTION]
+- **Technical leadership and mentoring:** *[Inferred from LinkedIn About - review before relying on this]* establishes architecture standards (Clean Architecture) and CI/CD processes for teams, mentors developers, leads code reviews.
+- **Outcome/metrics-driven:** *[Inferred from LinkedIn About - review before relying on this]* consistently frames work in measurable results - crash-free rate >99.5%, ~25% delivery efficiency gains, Lead Time reduction through automation.
+- **Comfort with technical complexity:** *[Inferred from LinkedIn About - review before relying on this]* draws out BLE (Bluetooth Low Energy) hardware integration and scalable architecture work as a specific strength area.
 
 ## How You Work Best
-- [ENVIRONMENT_PREFERENCE_1]
-- [ENVIRONMENT_PREFERENCE_2]
-- [ENVIRONMENT_PREFERENCE_3]
+- Adaptable to environment - comfortable working on a team or solo, no strong preference either way
+- Makes decisions quickly rather than deliberating at length
+- Motivated by opportunities to go deeper on Flutter/mobile specifically, rather than breadth for its own sake
 
 ## Growth Areas (frame positively in applications)
 - **[AREA_1]:** [HOW_TO_FRAME_IT_POSITIVELY]
@@ -46,6 +46,8 @@ When a job posting mentions these, flag as **potential friction** (not deal-brea
 ## Management Style Preferences
 - [WHAT_MANAGEMENT_STYLE_WORKS_FOR_YOU]
 - [WHAT_DOESN'T_WORK]
+
+<!-- The traits above are inferred from LinkedIn About text only - no formal assessment (PI/DISC/Myers-Briggs) or reference letters were available. Answer Section 6's behavioral questions (thrive environment, energy drains, team style, decision style, communication style) to complete this file properly. -->
 
 ## Using This in Applications
 - **Cover letters:** [HOW_TO_WEAVE_IN_BEHAVIORAL_STRENGTHS]

@@ -1,4 +1,4 @@
-%% Example CV - [YOUR_NAME]
+%% Example CV - Eduardo Cercal de Souza Aracema
 %% Comprehensive overview of all competencies, experience, and achievements.
 %% Use as a master reference when tailoring role-specific CVs.
 %%
@@ -33,7 +33,7 @@
     linkcolor=blue,
     filecolor=magenta,
     urlcolor=blue,
-    pdftitle={[YOUR_NAME] - CV},
+    pdftitle={Eduardo Cercal de Souza Aracema - CV},
     % Keep pdfpagemode=UseNone: this block runs after moderncv's own
     % \AtEndPreamble (moderncv.cls sets pdfpagemode there), so a FullScreen
     % value here would win and open every CV in fullscreen presentation mode.
@@ -43,13 +43,13 @@
 \usepackage{import}
 
 % personal data
-\name{[First]}{[Last]}
+\name{Eduardo}{Cercal de Souza Aracema}
 % If you have no address to list, DELETE this whole line. \address{}{}{} fails
 % with "There's no line here to end" on every moderncv version.
-\address{[Your Address, City, Country]}{}{}
-\phone[mobile]{[+XX XXXXXXXXXX]}
-\email{[your.email@example.com]}
-\extrainfo{\href{[https://linkedin.com/in/your-profile]}{LinkedIn}, \href{[https://github.com/your-username]}{GitHub}}
+\address{Curitiba, PR, Brazil}{}{}
+\phone[mobile]{+55 41 98862-2102}
+\email{eduardo\_cercal@hotmail.com}
+\extrainfo{\href{https://www.linkedin.com/in/eduardocercal}{LinkedIn}, \href{https://github.com/eduardo-cercal}{GitHub}}
 
 \begin{document}
 
@@ -60,7 +60,7 @@
 % ============================================================
 
 \vspace{6pt}
-\small{[Write a 3-5 line profile statement tailored to the role you're applying for. Focus on what makes you uniquely qualified. Example: "Data scientist with a PhD in [field] and X years of industry experience. Combines deep domain expertise in [domain] with strong applied machine learning and Python development skills. Experienced in developing end-to-end ML pipelines, from data ingestion to stakeholder-facing dashboards."]}
+\small{Senior Flutter Developer with 5+ years delivering high-impact mobile and web applications for Android, iOS and Web. Specialist in Clean Architecture, TDD and state management (BLoC, Riverpod), with a track record of cutting crash rates, raising user retention, and accelerating delivery through CI/CD. Worked across laboratory systems, automotive marketplaces, edtech and startups, always tied to business metrics rather than just working code.}
 
 % ============================================================
 %     CORE COMPETENCIES
@@ -70,15 +70,15 @@
 \vspace{1pt}
 \begin{itemize}
 
-\item \textbf{[Skill Category 1]}: [Specific skills, frameworks, tools. Be concrete.]
+\item \textbf{Mobile}: Flutter, Dart, Kotlin -- Android, iOS, Web
 
-\item \textbf{[Skill Category 2]}: [Specific skills, frameworks, tools.]
+\item \textbf{Architecture \& Testing}: Clean Architecture, SOLID, Design Patterns (Facade, Decorator, Repository), TDD, unit/widget/integration tests -- coverage \textgreater{}80\%
 
-\item \textbf{[Skill Category 3]}: [Specific skills, frameworks, tools.]
+\item \textbf{State Management}: BLoC, Riverpod, Provider, GetX
 
-\item \textbf{[Skill Category 4]}: [Domain expertise, methods, approaches.]
+\item \textbf{Firebase \& Integrations}: Crashlytics, Remote Config, Analytics Tagging, Cloud Firestore, DIO, REST APIs, Serverpod, GraphQL
 
-\item \textbf{[Skill Category 5]}: [Tools, platforms, software.]
+\item \textbf{CI/CD \& Tools}: GitHub Actions, Jenkins, Docker, FVM, Git, Jira, Scrum, Kanban
 
 \end{itemize}
 
@@ -90,32 +90,66 @@
 \vspace{3pt}
 \begin{itemize}
 
-% --- Most Recent Role ---
-\item{\cventry{[YYYY-Present]}{[Job Title]}{[Company]}{[City, Country]}{}{\vspace{1pt}
+% --- Intecso ---
+\item{\cventry{May 2026 - Aug 2026}{Engenheiro de Software Pleno}{Intecso Soluções e Inovações em Agronegócio}{Curitiba, Brazil}{}{\vspace{1pt}
 \begin{itemize}
-    \item {[Achievement or responsibility 1 - be specific, use numbers where possible]}
-    \item {[Achievement or responsibility 2]}
-    \item {[Achievement or responsibility 3]}
-    \item {[Achievement or responsibility 4]}
+    \item {Built the Checklist system from scratch with Flutter, C\# and Serverpod, cutting sample-traceability errors \textasciitilde{}40\%}
+    \item {Developed the Portal LIMS with unit/widget test coverage above 80\%, eliminating regressions}
+    \item {Implemented a CI/CD pipeline that cut build/distribution time \textasciitilde{}30\%}
 \end{itemize}}}
 
 \vspace{3pt}
 
-% --- Previous Role ---
-\item{\cventry{[YYYY-YYYY]}{[Job Title]}{[Company]}{[City, Country]}{}{\vspace{1pt}
+% --- SóCarrão ---
+\item{\cventry{Jun 2025 - Dec 2025}{Desenvolvedor Flutter Sênior}{SóCarrão}{Curitiba, Brazil}{}{\vspace{1pt}
 \begin{itemize}
-    \item {[Achievement or responsibility 1]}
-    \item {[Achievement or responsibility 2]}
-    \item {[Achievement or responsibility 3]}
+    \item {Cut crash rate \textasciitilde{}60\% via Firebase Crashlytics monitoring and top-error fixes}
+    \item {Increased user retention 15\% by migrating state management to Riverpod}
+    \item {Standardized an internal Design System, accelerating new-screen delivery \textasciitilde{}25\%}
 \end{itemize}}}
 
 \vspace{3pt}
 
-% --- Earlier Role ---
-\item{\cventry{[YYYY-YYYY]}{[Job Title]}{[Company]}{[City, Country]}{}{\vspace{1pt}
+% --- Pazze ---
+\item{\cventry{Jan 2024 - Mar 2025}{Desenvolvedor Flutter}{Pazze}{Curitiba, Brazil}{}{\vspace{1pt}
 \begin{itemize}
-    \item {[Achievement or responsibility 1]}
-    \item {[Achievement or responsibility 2]}
+    \item {Maintained two apps with TDD, cutting production regressions \textasciitilde{}45\% over 14 months}
+    \item {Reduced critical bug resolution time from 5 to 2 days via Crashlytics dashboards}
+\end{itemize}}}
+
+\vspace{3pt}
+
+% --- uList ---
+\item{\cventry{Aug 2023 - Jan 2024}{Desenvolvedor Flutter}{uList}{Curitiba, Brazil}{}{\vspace{1pt}
+\begin{itemize}
+    \item {Improved list load time \textasciitilde{}35\% via lazy loading and local caching with Hive}
+    \item {Eliminated 100\% of reported navigation crashes by fixing async race conditions}
+\end{itemize}}}
+
+\vspace{3pt}
+
+% --- Inteliger ---
+\item{\cventry{Apr 2023 - Jul 2023}{Desenvolvedor Mobile Flutter}{Inteliger}{Curitiba, Brazil}{}{\vspace{1pt}
+\begin{itemize}
+    \item {Delivered 3 client modules on contractual deadline, leading DIO/REST API integration}
+\end{itemize}}}
+
+\vspace{3pt}
+
+% --- Iesde Brasil ---
+\item{\cventry{May 2022 - Apr 2023}{Desenvolvedor Mobile Flutter}{Iesde Brasil}{Curitiba, Brazil}{}{\vspace{1pt}
+\begin{itemize}
+    \item {Executed a Flutter 2 \(\to\) 3 migration on the main app with zero downtime}
+    \item {Delivered 4 high-impact features following Clean Architecture and systematic Code Review}
+\end{itemize}}}
+
+\vspace{3pt}
+
+% --- RJR Software ---
+\item{\cventry{Aug 2020 - Apr 2022}{Desenvolvedor Fullstack}{RJR Software}{Curitiba, Brazil}{}{\vspace{1pt}
+\begin{itemize}
+    \item {Cut main query response time \textasciitilde{}50\% by optimizing PostgreSQL (indexes, normalization)}
+    \item {Saved \textasciitilde{}20 hours/month of operational work via internal Lua automation tools}
 \end{itemize}}}
 
 \end{itemize}
@@ -128,14 +162,8 @@
 \vspace{1pt}
 \begin{itemize}
 
-\item{\cventry{[YYYY-YYYY]}{[Degree] in [Field]}{[Institution]}{[City, Country]}{}{\vspace{1pt}
-Thesis: ``[Thesis Title].'' [Brief description of research focus.]
-}}
-
-\vspace{3pt}
-
-\item{\cventry{[YYYY-YYYY]}{[Degree] in [Field]}{[Institution]}{[City, Country]}{}{\vspace{1pt}
-[Brief description or key topics.]
+\item{\cventry{2024-2028}{Bacharelado in Ciência da Computação}{Universidade Bagozzi}{Curitiba, Brazil}{}{\vspace{1pt}
+In progress, expected 2028.
 }}
 
 \end{itemize}
@@ -147,27 +175,22 @@ Thesis: ``[Thesis Title].'' [Brief description of research focus.]
 \section{Languages}
 \vspace{1pt}
 \begin{itemize}
-\item {[Language 1] (native), [Language 2] (fluent), [Language 3] (intermediate).}
+\item {Portuguese (native), English (advanced), Japanese (basic).}
 \end{itemize}
 
 % ============================================================
-%     PUBLICATIONS (optional)
+%     CERTIFICATIONS
 % ============================================================
 
-\section{Publications}
+\section{Certifications}
 \vspace{1pt}
 \begin{itemize}
-\item {[Author(s)] ([Year]). [Title]. [Journal/Conference]. \href{[DOI_URL]}{DOI link}}
-\end{itemize}
-
-% ============================================================
-%     HONORS AND AWARDS (optional)
-% ============================================================
-
-\section{Honors and Awards}
-\vspace{1pt}
-\begin{itemize}
-\item{\textbf{[Award Name]} -- [Event/Organization] ([Year]).}
+\item{Flutter, TDD, Clean Architecture, SOLID e Design Patterns -- Udemy}
+\item{Desenvolvimento de Apps Android com Kotlin -- Udemy}
+\item{Flutter: Android, iOS e Web -- 5 cursos em 1 -- Udemy}
+\item{C\# Completo: Programação Orientada a Objetos + Projetos -- Udemy}
+\item{Linguagem C, C++ e Orientação a Objetos -- Udemy}
+\item{Curso de Qt Moderno com C++ para Linux e Windows -- Udemy}
 \end{itemize}
 
 % ============================================================

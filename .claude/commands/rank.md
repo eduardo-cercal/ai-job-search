@@ -96,7 +96,7 @@ Back in the main context, for each scored job:
    treated exactly like an absent one and reported once in the Step 5 summary with its
    portal.
 
-Sort by overall score (descending), urgency as tiebreaker.
+Sort by overall score (descending), urgency as first tiebreaker, then the Location Filter's ranked priority order from `.claude/skills/job-scraper/search-queries.md` (Remote worldwide, any currency > Curitiba > other Brazilian city > international on-site) as a second tiebreaker for jobs still tied after urgency.
 
 ---
 

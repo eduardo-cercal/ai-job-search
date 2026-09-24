@@ -60,9 +60,9 @@ How well do the required/preferred skills align with the candidate's capabilitie
 | 40-59 | Partial match, significant upskilling needed |
 | 0-39 | Fundamental mismatch |
 
-**Strong match areas:** [YOUR_PRIMARY_SKILLS]
-**Moderate match areas:** [YOUR_SECONDARY_SKILLS]
-**Weak match areas:** [SKILLS_YOU_LACK]
+**Strong match areas:** Flutter, Dart, mobile architecture (Clean Architecture, SOLID), state management (BLoC, Riverpod, Provider, GetX), TDD/testing (unit, widget, integration), Firebase (Crashlytics, Remote Config, Analytics, Firestore), CI/CD (GitHub Actions, Jenkins)
+**Moderate match areas:** Kotlin/Android-native integration, C#/Serverpod backend integration, REST/GraphQL API integration, PostgreSQL, BLE hardware integration, mentoring/code review leadership
+**Weak match areas:** iOS-native (Swift), large-scale backend/distributed systems, DevOps/infrastructure beyond app CI/CD, data engineering/ML
 
 ### 2. Experience Match (0-100)
 Does work history align with what they're looking for? Match on the function and nature of the work performed, not the literal job title - a "Data Consultant" and a "Data Scientist" role can be functionally identical.
@@ -74,9 +74,9 @@ Does work history align with what they're looking for? Match on the function and
 | 40-59 | Adjacent experience, would need to make the case |
 | 0-39 | Unrelated experience |
 
-**Strong:** [YOUR_DIRECT_EXPERIENCE_DOMAINS]
-**Moderate:** [YOUR_ADJACENT_EXPERIENCE]
-**Entry-level:** [ROLES_WITH_LIMITED_EXPERIENCE]
+**Strong:** Flutter/mobile developer roles (senior IC), cross-functional delivery in startups and product companies (LIMS/lab software, automotive marketplace, edtech)
+**Moderate:** Full-stack roles (RJR Software gives PostgreSQL/Lua backend exposure), technical leadership/mentoring roles (LinkedIn-stated experience, not yet a formal CV title)
+**Entry-level:** Flutter Tech Lead / Mobile Tech Lead - real mentoring and architecture-setting experience, but no formal "Lead" title held yet
 
 ### 3. Behavioral/Culture Fit (0-100)
 Does the role and company culture match the behavioral profile?
@@ -107,19 +107,19 @@ Does this role advance career goals and contain tasks that energize?
 | 0-39 | Dead end or backwards step |
 
 **Career goals:**
-- [YOUR_CAREER_GOAL_1]
-- [YOUR_CAREER_GOAL_2]
-- [YOUR_CAREER_GOAL_3]
+- Stay Flutter-focused - deepen expertise rather than pivot away from mobile
+- Keep growing into more technical-leadership/architecture responsibility (mentoring, standards-setting) building on Intecso/SóCarrão experience
+- No strict deal-breakers on company type or sector - open to roles that fit the Flutter focus
 
 **Motivation filter:** Evaluate not just whether you *can* do the tasks, but whether the tasks will *energize* you. Consider:
-- Tasks that energize: [YOUR_ENERGIZING_TASKS]
+- Tasks that energize: Going deeper on Flutter - architecture decisions, complex state management, performance/reliability work (crash reduction, testing), mentoring
 - Tasks that drain: [YOUR_DRAINING_TASKS]
 - Non-task factors: leadership style, department culture, company values, degree of autonomy
 
 **Life situation alignment:** Consider personal constraints:
-- **Security**: [YOUR_FINANCIAL_SITUATION_CONTEXT]
-- **Flexibility**: [YOUR_SCHEDULE_CONSTRAINTS]
-- **Professional development**: [YOUR_GROWTH_PRIORITIES]
+- **Security**: Currently unemployed and actively job searching (available immediately) - urgency is moderate-to-high
+- **Flexibility**: Open to relocation; remote-first anywhere in Brazil, no city preference
+- **Professional development**: Baseline compensation target ~USD 4,000/month for international/remote-USD roles, or ~R$8,000/month for Brazil-market roles
 
 ### 6. Salary Benchmark (Optional)
 

@@ -1,0 +1,491 @@
+{
+  "meta": {
+    "count": 20,
+    "page": 1,
+    "total": 478
+  },
+  "results": [
+    {
+      "id": "dart-taiwan-security-analyst-detection-and-response-team-coupang-internal-5klcjn7l",
+      "title": "DART Taiwan - Security Analyst   (Detection And Response Team)",
+      "company": "Coupang Internal",
+      "company_slug": "coupang-internal",
+      "location": "Taipei, Taiwan",
+      "date": "2026-09-14T10:09:00Z",
+      "url": "https://boards.greenhouse.io/coupanginternal/jobs/8188072?gh_jid=8188072&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "tw"
+      ],
+      "skills": [
+        "automation",
+        "aws",
+        "bash",
+        "cloud",
+        "cybersecurity",
+        "dart",
+        "dlp",
+        "docker",
+        "edr",
+        "kubernetes",
+        "linux",
+        "network-security",
+        "powershell",
+        "python",
+        "siem",
+        "threat-hunting"
+      ],
+      "description": null
+    },
+    {
+      "id": "dartmouth-driver-superior-plus-smgcls23",
+      "title": "Dartmouth Driver",
+      "company": "Superior Plus",
+      "company_slug": "superior-plus",
+      "location": "Dartmouth, NS, CA",
+      "date": "2026-09-03T04:00:00Z",
+      "url": "https://jobs.dayforcehcm.com/en-US/superiorplus/spcareers/jobs/42848?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "north_america"
+      ],
+      "countries": [
+        "ca",
+        "us"
+      ],
+      "skills": [],
+      "description": null
+    },
+    {
+      "id": "sql-server-database-developer-up-to-ps55-000-dartford-hybrid-pearson-carter-fpv7eb4n",
+      "title": "SQL Server Database Developer | up to £55,000 | Dartford, Hybrid",
+      "company": "Pearson Carter",
+      "company_slug": "pearson-carter",
+      "location": "Dartford, Kent",
+      "date": "2026-09-03T00:53:26Z",
+      "url": "https://www.adzuna.co.uk/jobs/details/5867851128?utm_medium=api&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [],
+      "countries": [],
+      "skills": [
+        "sql",
+        "sql-server"
+      ],
+      "description": null
+    },
+    {
+      "id": "razrabotchik-dart-csi-vuzsyy3i",
+      "title": "Разработчик Dart",
+      "company": "CSI",
+      "company_slug": "csi",
+      "location": null,
+      "date": "2026-09-14T21:33:35Z",
+      "url": "https://csi.huntflow.io/vacancy/razrabotchik-dart?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [],
+      "countries": [],
+      "skills": [
+        "android",
+        "api",
+        "bpmn",
+        "ci-cd",
+        "dart",
+        "docker",
+        "figma",
+        "flutter",
+        "gitlab",
+        "go",
+        "linux",
+        "rest",
+        "rust",
+        "unit-testing"
+      ],
+      "description": null
+    },
+    {
+      "id": "recruiter-dart-program-lithia-motors-nbjyy7ey",
+      "title": "Recruiter - DART Program",
+      "company": "Lithia Motors",
+      "company_slug": "lithia-motors",
+      "location": "Remote - MN",
+      "date": "2026-09-10T00:00:00Z",
+      "url": "https://lithia.wd504.myworkdayjobs.com/LithiaCareers/job/Remote---MN/Recruiter---DART-Program_R116865-1?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "mn"
+      ],
+      "skills": [
+        "candidate-experience",
+        "dart"
+      ],
+      "description": null
+    },
+    {
+      "id": "optometrist-dartford-kent-specsavers-ajdsnauj",
+      "title": "Optometrist - Dartford, Kent",
+      "company": "Specsavers",
+      "company_slug": "specsavers",
+      "location": null,
+      "date": "2026-09-12T00:00:00Z",
+      "url": "https://careers.specsavers.com/specsavers/job/Dartford-Optometrist-Dartford%2C-Kent-ENG-DA1-1DE/1416388833/?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [],
+      "countries": [],
+      "skills": [],
+      "description": null
+    },
+    {
+      "id": "frontend-softwareentwickler-flutter-dart-conze-informatik-iyf2cqzn",
+      "title": "Frontend Softwareentwickler Flutter / Dart",
+      "company": "Conze Informatik",
+      "company_slug": "conze-informatik",
+      "location": "Siegen, Germany",
+      "date": "2026-09-14T22:45:12Z",
+      "url": "https://de.whatjobs.com/pub_api__cpl__487800752__7078?geoID=12541&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "de"
+      ],
+      "skills": [
+        "angular",
+        "dart",
+        "flutter",
+        "react",
+        "react-native"
+      ],
+      "description": null
+    },
+    {
+      "id": "staff-security-engineer-dart-taiwan-coupang-qf5z27jz",
+      "title": "Staff Security Engineer_DART Taiwan",
+      "company": "Coupang",
+      "company_slug": "coupang",
+      "location": "Taipei, Taiwan",
+      "date": "2026-09-14T10:08:37Z",
+      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8188071&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "tw"
+      ],
+      "skills": [
+        "automation",
+        "aws",
+        "bash",
+        "cloud",
+        "cybersecurity",
+        "dart",
+        "dlp",
+        "docker",
+        "edr",
+        "kubernetes",
+        "linux",
+        "network-security",
+        "powershell",
+        "python",
+        "siem",
+        "threat-hunting"
+      ],
+      "description": null
+    },
+    {
+      "id": "data-analytics-manager-ia-dart-singtel-7cuvh675",
+      "title": "Data Analytics Manager - IA DART",
+      "company": "Singtel",
+      "company_slug": "singtel",
+      "location": null,
+      "date": "2026-09-12T00:00:00Z",
+      "url": "https://groupcareers.singtel.com/job/Data-Analytics-Manager-IA-DART-Sing/1364351666/?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "sg"
+      ],
+      "skills": [
+        "ai",
+        "analytics",
+        "cloud",
+        "cybersecurity",
+        "dart",
+        "data-analytics",
+        "data-science",
+        "data-visualization",
+        "machine-learning",
+        "powerbi",
+        "python",
+        "sql",
+        "stakeholder-management",
+        "statistics",
+        "tableau",
+        "technical-writing",
+        "uipath"
+      ],
+      "description": null
+    },
+    {
+      "id": "senior-security-engineer-dart-detection-and-response-team-rippling-q46fhd2y",
+      "title": "Senior Security Engineer - DART (Detection and Response Team)",
+      "company": "Rippling",
+      "company_slug": "rippling",
+      "location": "Bangalore, India",
+      "date": "2026-09-07T05:41:40Z",
+      "url": "https://ats.rippling.com/rippling/jobs/84739025-ee23-48c3-847d-39a4a187f376?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "in"
+      ],
+      "skills": [
+        "automation",
+        "aws",
+        "cloud",
+        "dart",
+        "devops",
+        "linux",
+        "macos",
+        "process-improvement",
+        "siem",
+        "threat-hunting"
+      ],
+      "description": null
+    },
+    {
+      "id": "team-member-juicer-u115-bluewater-shopping-centre-dartford-joe-the-juice-united-kingdom-c5jr2eo3",
+      "title": "Team Member/Juicer - U115 Bluewater Shopping Centre [Dartford]",
+      "company": "Joe & the Juice / United Kingdom",
+      "company_slug": "joe-the-juice-united-kingdom",
+      "location": "U115 Bluewater Shopping Centre [Dartford]",
+      "date": "2026-09-16T10:50:33Z",
+      "url": "https://job-boards.eu.greenhouse.io/jjuk/jobs/4864973101?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [],
+      "countries": [],
+      "skills": [],
+      "description": null
+    },
+    {
+      "id": "van-driver-dartford-gxo-z2xis343",
+      "title": "Van Driver | Dartford",
+      "company": "GXO",
+      "company_slug": "gxo",
+      "location": null,
+      "date": "2026-09-12T00:00:00Z",
+      "url": "https://jobs.gxo.com/job/Dartford-Van-Driver-Dartford-ENG-DA1-5XT/1416062300/?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [],
+      "countries": [],
+      "skills": [
+        "gis"
+      ],
+      "description": null
+    },
+    {
+      "id": "associate-optometrist-dartmouth-central-specsavers-3i7qlw2j",
+      "title": "Associate Optometrist - Dartmouth Central",
+      "company": "Specsavers",
+      "company_slug": "specsavers",
+      "location": null,
+      "date": "2026-09-12T00:00:00Z",
+      "url": "https://careers.specsavers.com/specsavers/job/Dartmouth-Associate-Optometrist-Dartmouth-Central-Nova-B3A-4N3/1435891633/?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [],
+      "countries": [],
+      "skills": [
+        "business-development"
+      ],
+      "description": null
+    },
+    {
+      "id": "manager-security-engineering-dart-taiwan-coupang-internal-t2ukocoo",
+      "title": "Manager, Security Engineering_DART Taiwan",
+      "company": "Coupang Internal",
+      "company_slug": "coupang-internal",
+      "location": "Taipei, Taiwan",
+      "date": "2026-09-14T07:49:59Z",
+      "url": "https://boards.greenhouse.io/coupanginternal/jobs/8188074?gh_jid=8188074&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "tw"
+      ],
+      "skills": [
+        "automation",
+        "aws",
+        "bash",
+        "cloud",
+        "cybersecurity",
+        "dart",
+        "dlp",
+        "docker",
+        "edr",
+        "kubernetes",
+        "linux",
+        "network-security",
+        "powershell",
+        "python",
+        "siem",
+        "threat-hunting"
+      ],
+      "description": null
+    },
+    {
+      "id": "manager-security-engineering-dart-taiwan-coupang-mahyn7w5",
+      "title": "Manager, Security Engineering _ DART Taiwan",
+      "company": "Coupang",
+      "company_slug": "coupang",
+      "location": "Taipei, Taiwan",
+      "date": "2026-09-14T07:49:21Z",
+      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8188073&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "tw"
+      ],
+      "skills": [
+        "automation",
+        "aws",
+        "bash",
+        "cloud",
+        "cybersecurity",
+        "dart",
+        "dlp",
+        "docker",
+        "edr",
+        "kubernetes",
+        "linux",
+        "network-security",
+        "powershell",
+        "python",
+        "siem",
+        "threat-hunting"
+      ],
+      "description": null
+    },
+    {
+      "id": "senior-software-engineer-dart-anduril-industries-zgwvq76w",
+      "title": "Senior Software Engineer, Dart",
+      "company": "Anduril Industries",
+      "company_slug": "anduril-industries",
+      "location": "Costa Mesa, California, United States",
+      "date": "2026-09-03T00:46:09Z",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4993677007?gh_jid=4993677007&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "north_america"
+      ],
+      "countries": [
+        "us"
+      ],
+      "skills": [
+        "ai",
+        "computer-vision",
+        "cpp",
+        "dart",
+        "distributed-computing",
+        "embedded-systems",
+        "linux",
+        "machine-learning",
+        "networking",
+        "python",
+        "rust",
+        "sensor-fusion"
+      ],
+      "description": null
+    },
+    {
+      "id": "financial-analyst-dart-network-nhsuda25",
+      "title": "Financial Analyst",
+      "company": "DART NETWORK",
+      "company_slug": "dart-network",
+      "location": "Eagan, MN 55121",
+      "date": "2026-09-12T05:57:44Z",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/portal/5da575eb9914c4afeaa9652668798a21/jobs/242922?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "north_america"
+      ],
+      "countries": [
+        "us"
+      ],
+      "skills": [
+        "ai",
+        "dart",
+        "machine-learning"
+      ],
+      "description": null
+    },
+    {
+      "id": "fleet-manager-dart-network-qm5uuexm",
+      "title": "Fleet Manager",
+      "company": "DART NETWORK",
+      "company_slug": "dart-network",
+      "location": "Eagan, MN 55121",
+      "date": "2026-09-12T05:57:44Z",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/portal/5da575eb9914c4afeaa9652668798a21/jobs/242904?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "north_america"
+      ],
+      "countries": [
+        "us"
+      ],
+      "skills": [],
+      "description": null
+    },
+    {
+      "id": "drayage-fleet-manager-dart-network-ngxpysok",
+      "title": "Drayage Fleet Manager",
+      "company": "DART NETWORK",
+      "company_slug": "dart-network",
+      "location": "Memphis, TN 38118",
+      "date": "2026-09-12T05:57:44Z",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/portal/5da575eb9914c4afeaa9652668798a21/jobs/217637?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "north_america"
+      ],
+      "countries": [
+        "us"
+      ],
+      "skills": [],
+      "description": null
+    },
+    {
+      "id": "warehouse-supervisor-morris-il-weekend-shift-dart-entities-u2jpn7y2",
+      "title": "Warehouse Supervisor - Morris, IL Weekend Shift",
+      "company": "DART ENTITIES",
+      "company_slug": "dart-entities",
+      "location": "Morris ADC - Morris, IL 60450",
+      "date": "2026-09-12T05:35:07Z",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/portal/33e4b790856f0f0bc419b7f6a2e5d717/jobs/592131?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "north_america"
+      ],
+      "countries": [
+        "us"
+      ],
+      "skills": [],
+      "description": null
+    }
+  ]
+}

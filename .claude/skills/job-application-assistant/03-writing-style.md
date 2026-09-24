@@ -1,5 +1,5 @@
 ---
-framework_version: 1.2.0
+framework_version: 1.3.0
 ---
 
 # Writing Style Guide
@@ -16,6 +16,11 @@ framework_version: 1.2.0
    - **Flag it:** Combining academic + industry experience into a single claim that implies it was all industry; describing work using the posting's specific terminology when the actual work was adjacent but not the same.
    - **Never:** Claiming experience the candidate doesn't have; implying they worked in a domain they haven't.
    When a bullet falls in the "flag it" zone, present it to the user after drafting with: "This bullet is a stretch because X. Keep, soften, or drop?" If the evaluation experience match score is below 50, warn before proceeding to drafting that extensive reframing would be needed.
+7. **AI-tooling / Claude Code phrasing.** CLAUDE.md requires naming Claude Code explicitly whenever agentic coding or AI tooling comes up. Frame that usage as a **current, general practice** — never as a dated, employer-specific achievement, and never as an established multi-year habit tied to a named past employer. No source document (`01-candidate-profile.md`, `cv/main_example.tex`, CLAUDE.md) ties Claude Code usage to a specific employer or project, so a claim that implies otherwise fails the interview-backtrack test: the candidate would have to say "well, I don't actually recall using it there specifically."
+   - **OK (CV, Core Competencies line):** "AI-Assisted Development: Claude Code and similar tools for accelerated iteration, all generated code reviewed and validated before merge." A skills-list entry, not a dated claim.
+   - **OK (cover letter):** "I use Claude Code to speed up iteration, always reviewing and validating generated code before merge." Present tense, general capability, no employer attached.
+   - **Not OK (a `\cventry` bullet under one specific employer):** "Used Claude Code as part of the daily development workflow, reviewing and validating all AI-generated code before merge." This reads as a documented, dated achievement at that employer specifically — nothing in the source files supports it, and it also crowds out a real, gradeable metric that bullet slot could otherwise carry.
+   - **Not OK (cover letter):** "Claude Code is part of my daily workflow at Intecso and beyond." Naming a specific employer turns a general habit into an unverifiable historical claim about that job.
 
 ## Tone
 - **Warm but direct.** Friendly and approachable, but confident without arrogance.

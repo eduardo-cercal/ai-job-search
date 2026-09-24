@@ -1,0 +1,494 @@
+{
+  "meta": {
+    "count": 20,
+    "page": 1,
+    "total": 229
+  },
+  "results": [
+    {
+      "id": "flutter-developer-android-ios-php-fintekh-kapital-end-kastodi-wrl7z5s4",
+      "title": "Flutter Developer (Android/iOS) + PHP",
+      "company": "Финтех капитал энд кастоди",
+      "company_slug": "fintekh-kapital-end-kastodi",
+      "location": "Минск",
+      "date": "2026-09-16T14:44:34Z",
+      "url": "https://hh.ru/vacancy/137451336?utm_source=freehire.me",
+      "work_mode": "onsite",
+      "regions": [
+        "cis"
+      ],
+      "countries": [
+        "by"
+      ],
+      "skills": [],
+      "description": null
+    },
+    {
+      "id": "flutter-engineer-forest-r5q5ga66",
+      "title": "Flutter Mobile Developer",
+      "company": "Forest",
+      "company_slug": "forest",
+      "location": "Chile",
+      "date": "2026-09-15T15:25:38Z",
+      "url": "https://www.getonbrd.com/jobs/flutter-engineer-forest-santiago-3308?utm_source=freehire.me",
+      "work_mode": "hybrid",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "cl"
+      ],
+      "skills": [
+        "android",
+        "api",
+        "flutter",
+        "git",
+        "ios",
+        "rest"
+      ],
+      "description": null
+    },
+    {
+      "id": "flutter-razrabotchik-informatsionnye-sistemy-fw2fckvs",
+      "title": "Flutter-разработчик",
+      "company": "Информационные системы",
+      "company_slug": "informatsionnye-sistemy",
+      "location": "Екатеринбург",
+      "date": "2026-09-15T13:14:20Z",
+      "url": "https://hh.ru/vacancy/137385088?utm_source=freehire.me",
+      "work_mode": "onsite",
+      "regions": [
+        "cis"
+      ],
+      "countries": [
+        "ru"
+      ],
+      "skills": [],
+      "description": null
+    },
+    {
+      "id": "flutter-razrabotchik-v-iandeks-smenu-yandex-vymg4wvv",
+      "title": "Flutter-разработчик в Яндекс Смену",
+      "company": "Yandex",
+      "company_slug": "yandex",
+      "location": "Москва",
+      "date": "2026-09-14T12:27:12Z",
+      "url": "https://yandex.ru/jobs/vacancies/flutterrazrabotchik-v-yandeks-smenu-48591?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "cis"
+      ],
+      "countries": [
+        "ru"
+      ],
+      "skills": [
+        "ai",
+        "flutter"
+      ],
+      "description": null
+    },
+    {
+      "id": "flutter-frontend-developer-code-id-2cqpqfft",
+      "title": "Flutter Frontend Developer",
+      "company": "CODE.ID",
+      "company_slug": "code-id",
+      "location": "Indonesia",
+      "date": "2026-09-14T11:54:51Z",
+      "url": "https://en-id.whatjobs.com/pub_api__cpl__17270794__7105?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "id"
+      ],
+      "skills": [
+        "agile",
+        "android",
+        "ci-cd",
+        "dart",
+        "flutter",
+        "ios",
+        "react",
+        "react-native",
+        "tdd",
+        "unit-testing"
+      ],
+      "description": null
+    },
+    {
+      "id": "flutter-mobile-developer-innovationteam-5gr535ap",
+      "title": "Flutter Mobile Developer",
+      "company": "InnovationTeam",
+      "company_slug": "innovationteam",
+      "location": "Riyadh, Riyadh Province, Saudi Arabia",
+      "date": "2026-09-14T00:00:00Z",
+      "url": "https://apply.workable.com/j/7FDFD79889?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "mena"
+      ],
+      "countries": [
+        "sa"
+      ],
+      "skills": [
+        "agile",
+        "android",
+        "api",
+        "ci-cd",
+        "flutter",
+        "git",
+        "ios",
+        "rest"
+      ],
+      "description": null
+    },
+    {
+      "id": "flutter-razrabotchik-biuro-1440-cri4cea3",
+      "title": "Flutter-разработчик",
+      "company": "БЮРО 1440",
+      "company_slug": "biuro-1440",
+      "location": "Москва (Мнёвники)",
+      "date": "2026-09-11T13:05:16Z",
+      "url": "https://getmatch.ru/vacancies/36199-flutter-razrabotchik?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "cis"
+      ],
+      "countries": [
+        "ru"
+      ],
+      "skills": [
+        "api",
+        "ci-cd",
+        "dart",
+        "flutter",
+        "gitlab",
+        "graphql",
+        "oauth"
+      ],
+      "description": null
+    },
+    {
+      "id": "flutter-developer-windows-android-ui-ux-component-library-p2qnwdhz",
+      "title": "Flutter Developer – Windows & Android UI/UX Component Library",
+      "company": null,
+      "company_slug": null,
+      "location": "UK",
+      "date": "2026-09-11T11:30:04Z",
+      "url": "https://www.adzuna.co.uk/jobs/details/5879528613?utm_medium=api&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [
+        "android",
+        "dart",
+        "flutter"
+      ],
+      "description": null
+    },
+    {
+      "id": "flutter-mobile-app-developer-abjomtech-6jgbayud",
+      "title": "Flutter Mobile App Developer",
+      "company": "AbjomTech",
+      "company_slug": "abjomtech",
+      "location": "Lagos",
+      "date": "2026-09-11T09:58:24Z",
+      "url": "https://t.me/cv_2essence/11623?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "africa"
+      ],
+      "countries": [
+        "ng"
+      ],
+      "skills": [
+        "flutter"
+      ],
+      "description": null
+    },
+    {
+      "id": "flutter-razrabotchik-vpn-prilozheniia-ios-android-middle-senior-litvin-daniil-igorevich-lzbmw2jr",
+      "title": "Flutter-разработчик (VPN-приложения iOS/Android), middle+/senior",
+      "company": "Литвин Даниил Игоревич",
+      "company_slug": "litvin-daniil-igorevich",
+      "location": "Кореновск",
+      "date": "2026-09-10T20:59:08Z",
+      "url": "https://hh.ru/vacancy/137224148?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "cis"
+      ],
+      "countries": [
+        "ru"
+      ],
+      "skills": [],
+      "description": null
+    },
+    {
+      "id": "flutter-developer-for-mobile-apps-m-f-d-healy-world-zhano2cq",
+      "title": "Flutter developer for mobile apps (m/f/d)",
+      "company": "Healy World",
+      "company_slug": "healy-world",
+      "location": "Berlin",
+      "date": "2026-09-10T10:50:30Z",
+      "url": "https://healy-world-gmbh.jobs.personio.com/job/2791378?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "de"
+      ],
+      "skills": [
+        "agile",
+        "android",
+        "api",
+        "ci-cd",
+        "dart",
+        "ecommerce",
+        "flutter",
+        "github",
+        "gitlab",
+        "ios",
+        "version-control"
+      ],
+      "description": null
+    },
+    {
+      "id": "flutter-test-infrastructure-engineer-holisto-ajnbjknd",
+      "title": "Flutter Test Infrastructure Engineer",
+      "company": "Holisto",
+      "company_slug": "holisto",
+      "location": null,
+      "date": "2026-09-10T00:00:00Z",
+      "url": "https://geekjob.ru/vacancy/6aa1d929f4a230ca2b0d79a1?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [],
+      "countries": [],
+      "skills": [
+        "ai",
+        "ci-cd",
+        "dart",
+        "flutter",
+        "github",
+        "llm",
+        "user-flows"
+      ],
+      "description": null
+    },
+    {
+      "id": "flutter-test-infrastructure-engineer-part-time-holisto-org-km3f4ale",
+      "title": "Flutter Test Infrastructure Engineer (part-time)",
+      "company": "Holisto.org",
+      "company_slug": "holisto-org",
+      "location": "Claymont, USA",
+      "date": "2026-09-10T00:00:00Z",
+      "url": "https://geekjob.ru/vacancy/6aa1d929f4a230ca2b0d79a1?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "north_america"
+      ],
+      "countries": [
+        "us"
+      ],
+      "skills": [
+        "ai",
+        "ci-cd",
+        "dart",
+        "flutter",
+        "github",
+        "llm",
+        "user-flows"
+      ],
+      "description": null
+    },
+    {
+      "id": "flutter-razrabotchik-qamqor-kazakhstan-r7fs7tgj",
+      "title": "Flutter-разработчик",
+      "company": "Qamqor Kazakhstan",
+      "company_slug": "qamqor-kazakhstan",
+      "location": "Алматы",
+      "date": "2026-09-09T05:29:43Z",
+      "url": "https://hh.ru/vacancy/137135287?utm_source=freehire.me",
+      "work_mode": "onsite",
+      "regions": [
+        "cis"
+      ],
+      "countries": [
+        "kz"
+      ],
+      "skills": [],
+      "description": null
+    },
+    {
+      "id": "flutter-engineer-pawpledge-pte-ltd-hau264vl",
+      "title": "Flutter Engineer",
+      "company": "PAWPLEDGE PTE. LTD.",
+      "company_slug": "pawpledge",
+      "location": "Singapore",
+      "date": "2026-09-09T00:00:00Z",
+      "url": "https://www.mycareersfuture.gov.sg/job/96c44098a3df7de0ece53ebbc3e1d930?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "sg"
+      ],
+      "skills": [
+        "analytics",
+        "android",
+        "api",
+        "dart",
+        "firebase",
+        "flutter",
+        "git",
+        "ios",
+        "rest"
+      ],
+      "description": null
+    },
+    {
+      "id": "flutter-node-js-fullstack-engineer-f-m-d-fully-remote-memodio-gir3ztnx",
+      "title": "Flutter & Node.js Fullstack Engineer (f/m/d) - Fully Remote",
+      "company": "memodio",
+      "company_slug": "memodio",
+      "location": "Potsdam",
+      "date": "2026-09-07T10:02:39Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/memodio/flutter-nodejs-fullstack-engineer-fully-remote-potsdam-193068?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "global"
+      ],
+      "countries": [],
+      "skills": [
+        "accessibility",
+        "ai",
+        "android",
+        "api",
+        "ci-cd",
+        "cloud",
+        "dart",
+        "devops",
+        "flutter",
+        "hubspot",
+        "ios",
+        "llm",
+        "nodejs",
+        "react",
+        "react-native"
+      ],
+      "description": null
+    },
+    {
+      "id": "flutter-mobile-engineer-nocd-yjie4hxa",
+      "title": "Flutter Mobile Engineer",
+      "company": "NOCD",
+      "company_slug": "nocd",
+      "location": "Chicago, IL",
+      "date": "2026-09-04T14:36:27Z",
+      "url": "https://ats.rippling.com/nocd/jobs/c3293c75-74e3-4c7e-ad48-c5b2ae4e5776?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "north_america"
+      ],
+      "countries": [
+        "us"
+      ],
+      "skills": [
+        "analytics",
+        "android",
+        "bigquery",
+        "dart",
+        "data-analytics",
+        "design-patterns",
+        "erp",
+        "flutter",
+        "ios",
+        "java",
+        "kotlin",
+        "python",
+        "swift"
+      ],
+      "description": null
+    },
+    {
+      "id": "flutter-razrabotchik-middle-fintech-mobile-osoo-kreasoft-uslauw4k",
+      "title": "Flutter-разработчик Middle+ (FinTech / Mobile)",
+      "company": "ОсОО КреаСофт",
+      "company_slug": "osoo-kreasoft",
+      "location": "Бишкек",
+      "date": "2026-09-04T11:04:13Z",
+      "url": "https://hh.ru/vacancy/136995170?utm_source=freehire.me",
+      "work_mode": "onsite",
+      "regions": [
+        "cis"
+      ],
+      "countries": [
+        "kg"
+      ],
+      "skills": [],
+      "description": null
+    },
+    {
+      "id": "flutter-full-stack-engineer-ai-powered-game-backend-big-potato-games-b-corp-tm-j6rcxs72",
+      "title": "Flutter Full-Stack Engineer | AI-Powered Game Backend",
+      "company": "Big Potato Games | B Corp™",
+      "company_slug": "big-potato-games-b",
+      "location": "London, United Kingdom",
+      "date": "2026-09-03T16:45:00Z",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__525435246__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [
+        "ai",
+        "flutter",
+        "mongodb",
+        "nextjs",
+        "react",
+        "typescript"
+      ],
+      "description": null
+    },
+    {
+      "id": "flutter-razrabotchik-veltrix-technologies-ohpr4x72",
+      "title": "Flutter-разработчик",
+      "company": "VELTRIX TECHNOLOGIES",
+      "company_slug": "veltrix-technologies",
+      "location": "Шымкент",
+      "date": "2026-09-03T13:15:15Z",
+      "url": "https://hh.ru/vacancy/136961836?utm_source=freehire.me",
+      "work_mode": "onsite",
+      "regions": [
+        "cis"
+      ],
+      "countries": [
+        "kz"
+      ],
+      "skills": [
+        "android",
+        "api",
+        "dart",
+        "flutter",
+        "git",
+        "github",
+        "hive",
+        "ios",
+        "rest",
+        "sqlite",
+        "wifi"
+      ],
+      "description": null
+    }
+  ]
+}

@@ -39,6 +39,58 @@ Keep answers to 1-2 minutes. Be specific. End with what you learned or would do 
 
 <!-- Add more STAR examples as needed. Aim for 4-6 covering different competencies. -->
 
+## STAR Candidates (Complete Manually)
+
+### Portal LIMS / Checklist system built from scratch (Intecso)
+**Source:** CV - Intecso, Engenheiro de Software Pleno
+**What happened:** Built a lab-sample Checklist system from scratch with Flutter, C# and Serverpod, cutting sample-traceability errors by ~40%.
+**Why it matters:** Ownership of a system built from zero; cross-stack integration (Flutter + C# + Serverpod); Clean Architecture applied for team onboarding.
+**S/T/A/R stub:**
+- Situation:
+- Task:
+- Action:
+- Result:
+
+### Crash rate reduction via Crashlytics (SóCarrão)
+**Source:** CV - SóCarrão, Desenvolvedor Flutter Sênior
+**What happened:** Reduced crash rate by ~60% by implementing Firebase Crashlytics monitoring and fixing the top 10 production errors.
+**Why it matters:** Data-driven debugging, prioritization under production pressure, measurable reliability impact.
+**S/T/A/R stub:**
+- Situation:
+- Task:
+- Action:
+- Result:
+
+### User retention increase via Riverpod migration (SóCarrão)
+**Source:** CV - SóCarrão, Desenvolvedor Flutter Sênior
+**What happened:** Migrated state management to Riverpod and refactored navigation flows, increasing user retention by 15%.
+**Why it matters:** Large-scale refactor decision-making, connecting a technical migration to a business metric.
+**S/T/A/R stub:**
+- Situation:
+- Task:
+- Action:
+- Result:
+
+### Zero-downtime Flutter 2 to 3 migration (Iesde Brasil)
+**Source:** CV - Iesde Brasil, Desenvolvedor Mobile Flutter
+**What happened:** Executed a Flutter 2 to 3 migration on the main app with zero downtime, coordinating with QA and an automated publishing pipeline.
+**Why it matters:** Risk management on a major version migration; cross-team coordination (QA); good answer for "tell me about a risky technical change."
+**S/T/A/R stub:**
+- Situation:
+- Task:
+- Action:
+- Result:
+
+### PostgreSQL query optimization (RJR Software)
+**Source:** CV - RJR Software, Desenvolvedor Fullstack
+**What happened:** Reduced main query response time by ~50% by optimizing the PostgreSQL database with indexes and normalizing legacy structures.
+**Why it matters:** Backend/database performance work, useful to counter a "Flutter-only" perception in full-stack-leaning roles.
+**S/T/A/R stub:**
+- Situation:
+- Task:
+- Action:
+- Result:
+
 ## Common Tough Questions
 
 ### "Why did you leave [previous company]?"
